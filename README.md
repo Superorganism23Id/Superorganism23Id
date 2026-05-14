@@ -1,4 +1,4 @@
 # Superorganism23Id
 
-Male, Asian, Student, 
+Male, Student, 
 Like running, cycling, Listen to music
